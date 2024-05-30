@@ -1,0 +1,15 @@
+#thẻ1{
+  font-size: 30px ;
+}
+h1{
+  color:aqua;
+}
+.item1{
+  color: yellow;
+}
+.no1{
+  opacity: 0.5;
+}
+.no2{
+  display: none;
+}
