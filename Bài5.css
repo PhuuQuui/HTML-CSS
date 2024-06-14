@@ -1,9 +1,3 @@
-.loichuc p{
-  font-size: 30px
-}
-div p{
-  color: aqua
-}
-*{
-  background-color: blue;
+h1~h3{
+  color: blue
 }

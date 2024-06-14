@@ -1,0 +1,19 @@
+div{
+  background-color: green;
+  color: aqua;
+  width: 300px ;
+  height: 300px;
+  padding-top: 50px;
+  border-top:20px solid blue ;
+  padding-left: 50px;
+  border-left:20px double grey;
+  padding-right:50px;
+  border-right:20px dotted navy;
+  padding-bottom:50px;
+  border-bottom: 20px outset honeydew;
+    */ border-radius: 30px;
+  border-top-left-radius:30px;
+  border-top-right-radius:40px;
+  border-bottom-left-radius:50px;
+  border-bottom-right-radius:60px;
+}

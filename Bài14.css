@@ -1,0 +1,9 @@
+.box{
+  width: 100px;
+  height: 150px;
+  border: 30px solid red;
+  box-sizing: content-box;
+}
+.box2{
+  box-sizing:border-box;
+}

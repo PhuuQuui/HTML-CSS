@@ -1,0 +1,28 @@
+*/ p:first-child{
+  color: red;
+  font-size: 30px
+}
+*/ p:first-of-type{
+  color: red;
+  font-size: 30px
+}
+*/ h2:last-of-type{
+  color: blue;
+  font-size: 30px;
+}
+*/ p:nth-of-type(3){
+  color: blue;
+  font-size: 30px;
+}
+*/ p:nth-of-type(odd){
+  color: aqua;
+  font-size:30px;
+}
+*/ p:nth-of-type(even){
+  color: aqua;
+  font-size:30px;
+} 
+p:nth-of-type(3n+1){
+  color: aqua;
+  font-size:30px;
+} 
